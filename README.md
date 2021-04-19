@@ -1,4 +1,4 @@
-# Oi, Me chamo [Mikaella](https://github.com/mikaella-hoffmann)
+# Olá 👉 Me chamo [Mikaella](https://github.com/mikaella-hoffmann)
 <h3 align="center">Fale comigo por aqui:</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
