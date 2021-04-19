@@ -20,6 +20,6 @@
 
 ## 📷 Me siga nas redes sociais:
 
-* [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeJ16J9wAHcJsbo1dPA4pow?view_as=subscriber)](https://www.youtube.com/channel/UCeJ16J9wAHcJsbo1dPA4pow?view_as=subscriber)
+* [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeJ16J9wAHcJsbo1dPA4pow?view_as=subscriber)](https://youtube.com/channel/UCroqLRiHSDwGOmvOVyc8Tkw)
 * [![Twitter Badge](https://img.shields.io/badge/-Twitter_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/JoaoWasHere_)](https://twitter.com/NatsumiKwaii)
 * [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaowasherekkk/)](https://www.instagram.com/bxbyrxz/)
